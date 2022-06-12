@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+.text-sobre {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px #333333 solid; 
+}
+.text-sobre p {
+    padding: 10px; 
+    font-family:Arial, Helvetica, sans-serif
+}
+.servicos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-bottom: 30px;
+}
+img {
+    width: 500px;
+    height: 350px;
+    opacity: 0.9;
+    padding: 20px;
+} 
+p {
+    font-size: 15px;
+    text-align: center;
+}
+iframe {
+    height: 300px;
+    width: 600px;
+}
+.imagem-1 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+}
